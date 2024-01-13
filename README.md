@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony JAMBON</h1>
-<h3 align="center">I'm a student at 42</h3>
+<h3 align="center">I'm a student at school 42</h3>
 
 <br>
 
