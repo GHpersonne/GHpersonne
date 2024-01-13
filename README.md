@@ -2,7 +2,7 @@
 <h3 align="center">I'm a student at 42</h3>
 
 <br>
-<br>
+
 - 🔭 I’m currently working on **common core**
 
 - 🌱 I’m currently learning **C and Pentest**
